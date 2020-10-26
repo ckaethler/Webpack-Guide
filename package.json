@@ -1,0 +1,25 @@
+{
+  "name": "Webpack-Guide",
+  "version": "1.0.0",
+  "description": "From class on Udemy: \"Webpack 5: The Complete Guide for Beginners\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckaethler/Webpack-Guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckaethler/Webpack-Guide/issues"
+  },
+  "homepage": "https://github.com/ckaethler/Webpack-Guide#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.2.0",
+    "webpack-cli": "^4.1.0"
+  }
+}
