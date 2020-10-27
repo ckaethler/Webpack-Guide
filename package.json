@@ -18,14 +18,19 @@
     "url": "https://github.com/ckaethler/Webpack-Guide/issues"
   },
   "homepage": "https://github.com/ckaethler/Webpack-Guide#readme",
-  "dependencies": {},
+  "dependencies": {
+    "html-webpack-plugin": "^4.5.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@babel/preset-env": "^7.12.1",
     "babel-loader": "^8.1.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
+    "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^5.0.0",
     "file-loader": "^6.1.1",
+    "handlebars": "^4.7.6",
+    "handlebars-loader": "^1.7.1",
     "mini-css-extract-plugin": "^1.2.0",
     "node-sass": "^4.14.1",
     "sass-loader": "^10.0.4",
